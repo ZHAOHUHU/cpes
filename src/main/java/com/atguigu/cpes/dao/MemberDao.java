@@ -3,8 +3,6 @@ package com.atguigu.cpes.dao;
 import java.util.List;
 import java.util.Map;
 
-import com.atguigu.cpes.bean.Member;
-import com.atguigu.cpes.bean.MemberCert;
 import com.atguigu.cpes.bean.Ticket;
 
 /**
