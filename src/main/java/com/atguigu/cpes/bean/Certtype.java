@@ -1,7 +1,7 @@
 package com.atguigu.cpes.bean;
 
 /**
- *  @author 
+ *  @author 动物世界
  */
 public class Certtype {
     private String acctype;
