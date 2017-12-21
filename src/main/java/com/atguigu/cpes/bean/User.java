@@ -6,6 +6,9 @@ package com.atguigu.cpes.bean;
 public class User {
  private String msg;
 	private Integer id;
+	/*
+	我是父亲
+	 */
 
 	
 }
