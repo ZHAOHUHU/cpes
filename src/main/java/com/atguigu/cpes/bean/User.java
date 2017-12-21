@@ -1,7 +1,7 @@
 package com.atguigu.cpes.bean;
 
 /**
- *我是第三个儿子
+ *我是儿子
  */
 public class User {
 
@@ -10,5 +10,15 @@ public class User {
 	我是父亲
 	 */
 
-	
+
+
+
+
+
+
+
+
+	/*
+	差点成孙子
+	 */
 }
