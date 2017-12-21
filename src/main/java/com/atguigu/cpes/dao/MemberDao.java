@@ -3,8 +3,6 @@ package com.atguigu.cpes.dao;
 import java.util.List;
 import java.util.Map;
 
-import com.atguigu.cpes.bean.Ticket;
-
 /**
  * 会员数据访问对象
  * @author 18801

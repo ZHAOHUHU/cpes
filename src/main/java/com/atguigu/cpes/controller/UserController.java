@@ -19,9 +19,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.atguigu.cpes.bean.Datas;
-import com.atguigu.cpes.bean.Page;
-import com.atguigu.cpes.bean.Role;
 import com.atguigu.cpes.bean.User;
 import com.atguigu.cpes.service.RoleService;
 import com.atguigu.cpes.service.UserService;

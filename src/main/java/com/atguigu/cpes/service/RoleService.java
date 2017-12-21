@@ -2,10 +2,6 @@ package com.atguigu.cpes.service;
 
 import java.util.List;
 
-import com.atguigu.cpes.bean.Datas;
-import com.atguigu.cpes.bean.Page;
-import com.atguigu.cpes.bean.Role;
-
 public interface RoleService {
 
 	Page<Role> queryPage(Integer pageno, Integer pagesize);

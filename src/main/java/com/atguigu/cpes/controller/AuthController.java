@@ -13,8 +13,6 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.atguigu.cpes.bean.Page;
-import com.atguigu.cpes.bean.Ticket;
 import com.atguigu.cpes.service.MemberService;
 
 @Controller

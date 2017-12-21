@@ -7,9 +7,6 @@ import java.util.Map;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.atguigu.cpes.bean.Datas;
-import com.atguigu.cpes.bean.Page;
-import com.atguigu.cpes.bean.Cert;
 import com.atguigu.cpes.dao.CertDao;
 import com.atguigu.cpes.service.CertService;
 

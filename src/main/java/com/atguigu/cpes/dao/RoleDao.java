@@ -3,9 +3,6 @@ package com.atguigu.cpes.dao;
 import java.util.List;
 import java.util.Map;
 
-import com.atguigu.cpes.bean.Datas;
-import com.atguigu.cpes.bean.Role;
-
 public interface RoleDao {
 
 	List<Role> queryRole4Page(Map<String, Object> paramMap);

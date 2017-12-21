@@ -6,7 +6,6 @@ import java.util.Map;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.atguigu.cpes.bean.Ticket;
 import com.atguigu.cpes.dao.MemberDao;
 import com.atguigu.cpes.service.MemberService;
 

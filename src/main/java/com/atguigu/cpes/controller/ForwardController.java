@@ -13,8 +13,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.atguigu.cpes.bean.Menu;
-import com.atguigu.cpes.bean.Permission;
 import com.atguigu.cpes.bean.User;
 import com.atguigu.cpes.service.MenuService;
 import com.atguigu.cpes.service.UserService;

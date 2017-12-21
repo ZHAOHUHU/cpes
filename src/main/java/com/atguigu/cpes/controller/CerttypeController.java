@@ -9,10 +9,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.atguigu.cpes.bean.Cert;
-import com.atguigu.cpes.bean.Certtype;
-import com.atguigu.cpes.bean.Datas;
-import com.atguigu.cpes.bean.Page;
 import com.atguigu.cpes.service.CertService;
 import com.atguigu.cpes.service.CerttypeService;
 

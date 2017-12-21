@@ -5,7 +5,6 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.atguigu.cpes.bean.Permission;
 import com.atguigu.cpes.dao.PermissionDao;
 import com.atguigu.cpes.service.PermissionService;
 
