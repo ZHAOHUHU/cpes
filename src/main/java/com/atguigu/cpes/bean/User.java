@@ -1,8 +1,6 @@
 package com.atguigu.cpes.bean;
 
 /**
- * 用户
- * @author 18801我就是赵宏宇啊hi有谁就问问还有谁
  *
  */
 public class User {
