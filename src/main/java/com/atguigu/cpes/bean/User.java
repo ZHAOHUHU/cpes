@@ -3,7 +3,7 @@ package com.atguigu.cpes.bean;
 /**
  *我是儿子
  */
-public class User {
+public class User 大师傅但是政府{
 
 	private Integer id;
 	/*
