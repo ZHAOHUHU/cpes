@@ -5,7 +5,7 @@ package com.atguigu.cpes.bean;
  */
 public class User {
 
-	private Integer id;
+	private Integer id在v对付中国v发的是这个色;
 	/*
 	我是父亲
 	 */
