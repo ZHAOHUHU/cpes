@@ -1,19 +1,17 @@
 package com.atguigu.cpes.bean;
 
 /**
-<<<<<<< Updated upstream
- *我可是爸爸
-=======
  *我是儿子
->>>>>>> Stashed changes
  */
 public class User {
- private String msg;
-	private Integer id;
+
+	private Integer id在v对付中国v发的是这个色;
 	/*
 	我是父亲
 	 */
-
+/*
+爱不是因为寂寞才存在，寂寞时的爱为何你要那么坏
+ */
 
 
 
